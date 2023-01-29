@@ -1,5 +1,6 @@
 # Digital-Alarm-Clock
-![](Screenshot 2023-01-29 at 19-51-58 My Alarm Clock.png)
+
+![](clock.png)
 
 # Using
 HTML5, CSS3, JavaScript
